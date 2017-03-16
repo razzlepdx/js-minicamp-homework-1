@@ -3,12 +3,12 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+
+	* Variables - this is how you would reference a value without typing that thing over and over again in your program.  Variables are flexible and can be reassigned if needed - for example, a variable called myAge might be equal to 25, but after 5 years has passed, myAge will be 30.  Variables can also be more complex; myCar could be a 2004 Honda Accord today, but if I replace myCar, it will definitely be a 2017 BMW 540i (haha)  
+	* Strings - code written between quotation marks - this is just like regular text or quotes in a book.
+	* Functions (arguments, `return`) - a function performs a specific task in your program.  Sometimes a function needs arguments, or input values.  For example, if you needed your program to save the first and last name of a customer, you would write a function that takes 2 arguments (the first name, and the last name) and then saves them for you.  "Return" is the part of the function that gives your program a final answer, or value, when your function has done it's job - it's the final step of your function.
+	* `if` statements help your program make decisions.  They will specify a condition or scenario, and if that condition is true, it will tell the program what to do next.  If it is not true, the program will move on to the next condition. (for example, if Rachel likes pizza, buy pizza.  But if Rachel does not like pizza, buy sushi.)  
+	* Boolean values (`true`, `false`) - True and False are used to compare statements and values in your code.  This information can be used to help evaluate if statements, or to tell your program to proceed or stop.  
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
